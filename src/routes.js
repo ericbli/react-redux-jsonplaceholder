@@ -4,7 +4,7 @@ import restricted from './restricted';
 import Layout from './screens/__layout/layout';
 
 /* Components Example */
-import ListPost from './screens/post'
+import ListPost from './screens/post/index'
 import DetailPost from './screens/post/detail'
 
 
